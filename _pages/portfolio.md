@@ -2,7 +2,7 @@
 title: "Professional Experience"
 collection: experiences
 category: professional
-permalink: /professional-experience
+permalink: /portfolio/
 ---
 
 ## Internships
