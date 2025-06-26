@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-08-spatio-temporal-data-analysis-using-deep-learning
 excerpt: 'Analytics of the ability of deep learning to learn complex relationships between the spatial and temporal dimensions of the data.'
-date: 2023-08-01
+date: 2023-09-23
 venue: 'International Research Journal of Engineering and Technology (IRJET)'
 slidesurl: ''
 paperurl: 'https://www.irjet.net/archives/V10/i8/IRJET-V10I837.pdf'
