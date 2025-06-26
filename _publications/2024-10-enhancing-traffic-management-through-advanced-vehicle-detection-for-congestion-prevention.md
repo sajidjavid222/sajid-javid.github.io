@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-10-enhancing-traffic-management-through-advanced-vehicle-detection-for-congestion-prevention
 excerpt: 'Investigation of urban traffic congestion issues and inefficiencies in traditional traffic management systems.'
-date: 2024-10-01
+date: 2024-09-23
 venue: '2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)'
 slidesurl: ''
 paperurl: '<link>'
