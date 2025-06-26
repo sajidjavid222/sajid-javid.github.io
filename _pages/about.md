@@ -5,22 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
 
----------------
 
----
-
-title: "Sajid Javid | Ph.D. Student"
-layout: default
-permalink: /
-author\_profile: true
-redirect\_from:
-
-* /about/
-* /about.html
-
----
 
 # 👋 Welcome to My Portfolio
 
