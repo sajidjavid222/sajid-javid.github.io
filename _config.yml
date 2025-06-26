@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sajid Javid's Homepage"
+title                    : "Sajid's Homepage"
 title_separator          : "-"
 name                     : &name "Sajid Javid"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   avatar           : "profile_pic.png"
   name             : "Sajid Javid"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in the Department of Computer Science and Engineering"
+  bio              : "PhD Student in the Department of CSE at IIIT Delhi"
   location         : "Delhi"
   employer         : "IIIT Delhi"
   uri              : # URL
