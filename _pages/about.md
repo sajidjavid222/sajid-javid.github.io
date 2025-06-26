@@ -7,8 +7,8 @@ redirect_from:
 ---
 
 
-
-# 👋 Welcome to My Portfolio
+<!-- 
+# 👋 Welcome to My Portfolio -->
 
 Welcome! I'm **Sajid Javid**, a second-year **Ph.D. student** in the **Department of Computer Science and Engineering** at **IIIT Delhi**. I’m passionate about building intelligent system models that tackle real-world challenges using the power of machine learning and AI with a primary focus on wireless communications and networks. I am currently working as part of the **i-CPS (Intelligent Communication, Processing, and Sensing) Lab**, where we focus on developing algorithms and implementations for intelligent wireless communication and sensing systems.
 
