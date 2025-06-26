@@ -7,7 +7,7 @@ excerpt: 'Investigation of urban traffic congestion issues and inefficiencies in
 date: 2024-09-23
 venue: '2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)'
 slidesurl: ''
-paperurl: '<link>'
+paperurl: 'https://ieeexplore.ieee.org/document/10723457'
 bibtexurl: ''
 citation: 'M. Swaned, S. Javid, S. Humaney, A. Sachan, N. S. Chauhan, and N. Kumar. (2024). "Enhancing Traffic Management Through Advanced Vehicle Detection for Congestion Prevention." <i>2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)</i>. 623–628.'
 ---
