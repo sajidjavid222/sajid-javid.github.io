@@ -1,6 +1,5 @@
 ---
 title: "Professional Experience"
-collection: portfolio
 ---
 
 ---
