@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-10-enhancing-traffic-management-through-advanced-vehicle-detection-for-congestion-prevention
 excerpt: 'Investigation of urban traffic congestion issues and inefficiencies in traditional traffic management systems.'
 date: 2024-09-23
-venue: '2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)'
+venue: '2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS) at Seoul, South Korea'
 slidesurl: 'https://drive.google.com/file/d/1Zj4xQy-vMTzd9UhS5FhQ9ixfRrPJwLgn/view?usp=sharing'
 paperurl: 'https://ieeexplore.ieee.org/document/10723457'
 bibtexurl: '@INPROCEEDINGS{10723457,
@@ -18,7 +18,7 @@ bibtexurl: '@INPROCEEDINGS{10723457,
   pages={623-628},
   keywords={Deep learning;Adaptation models;Vehicle detection;Computational modeling;Urban areas;Motorcycles;Traffic control;Real-time systems;Automobiles;Vehicle dynamics;Traffic management system;Vehicle detection;YOLO;YOLOv8s;Precision;Recall;mAP},
   doi={10.1109/MASS62177.2024.00099}}'
-  
+
 citation: 'M. Swaned, S. Javid, S. Humaney, A. Sachan, N. S. Chauhan, and N. Kumar. (2024). "Enhancing Traffic Management Through Advanced Vehicle Detection for Congestion Prevention." <i>2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)</i>. 623–628.'
 ---
 

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-09-trans-rem-cnn-transformer-indoor-radio-environment-mapping
 excerpt: 'A novel hybrid CNN-Transformer framework for accurate indoor radio environment mapping (REM).'
 date: 2025-09-01
-venue: '2025 36th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2025)'
+venue: '2025 36th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2025) at Istanbul, Turkey'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
