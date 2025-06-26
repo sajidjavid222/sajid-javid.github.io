@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,13 +7,11 @@ redirect_from:
 ---
 ---
 
-title: "Sajid Javid | Ph.D. Student | Portfolio"
-layout: default
 ---------------
 
 # 👋 Welcome to My Portfolio
 
-I am **Sajid Javid**, a Ph.D. Student in Computer Science and Engineering at **IIIT Delhi**. My research focuses on:
+I am **Sajid Javid**, a second-year Ph.D. Student in Computer Science and Engineering at **IIIT Delhi**. My research focuses on:
 
 * Machine Learning
 * Deep Learning
