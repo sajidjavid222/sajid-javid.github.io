@@ -1,12 +1,9 @@
 ---
-
 permalink: /
-author\_profile: true
-redirect\_from:
-
-* /about/
-* /about.html
-
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # 👋 Welcome to My Portfolio
