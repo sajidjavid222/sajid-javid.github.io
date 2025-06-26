@@ -9,7 +9,7 @@ location: "Delhi, India"
 ---
 
 **Course:** CSE102 – Data Structure and Algorithm  
-**Instructor:**Dr. Gautam Shroff
+**Instructor:** Dr. Gautam Shroff
 **Term:** Jan 2025 – May 2025  
 
 **TA Duties:**  
