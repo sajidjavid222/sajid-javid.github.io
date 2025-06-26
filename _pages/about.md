@@ -10,10 +10,14 @@ redirect_from:
 
 # 👋 Welcome to My Portfolio
 
-Welcome! I'm **Sajid Javid**, a Ph.D. student in Computer Science and Engineering at **IIIT Delhi**. I’m passionate about building intelligent systems that tackle real-world challenges using the power of machine learning and AI.
+Welcome! I'm **Sajid Javid**, a Ph.D. student in Computer Science and Engineering at **IIIT Delhi**. I’m passionate about building intelligent system models that tackle real-world challenges using the power of machine learning and AI with primary focus on wireless communications and networks.
 
-My journey has been shaped by meaningful research, innovative projects, and collaborative learning. Whether contributing to academic research or leading tech initiatives, I strive to bring thoughtful solutions and impactful ideas to life.
+Throughout my education and research experiences, I have explored diverse areas within computer science, collaborating on projects that span artificial intelligence, computer vision, natural language processing, and wireless communication. These experiences have shaped my approach to problem-solving and fueled my passion for learning and experimentation.
 
+My background also includes hands-on involvement in teaching, leadership roles in technical clubs, and participation in national and international events. I value collaboration, critical thinking, and the process of turning ideas into meaningful solutions.
+
+
+This website serves as a glimpse into my professional world—a space to share my research interests, academic progress, and selected projects.
 ---
 
 ## 🌟 Research Interests
