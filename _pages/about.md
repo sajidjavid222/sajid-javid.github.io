@@ -7,10 +7,10 @@ redirect_from:
 ---
 
 
-<!-- 
-# 👋 Welcome to My Portfolio -->
+# 👋 Welcome to My Portfolio
 
-Welcome! I'm **Sajid Javid**, a second-year **Ph.D. student** in the **Department of Computer Science and Engineering** at **IIIT Delhi**. I’m passionate about building intelligent system models that tackle real-world challenges using the power of machine learning and AI with a primary focus on wireless communications and networks. I am currently working as part of the **i-CPS (Intelligent Communication, Processing, and Sensing) Lab**, where we focus on developing algorithms and implementations for intelligent wireless communication and sensing systems.
+
+Welcome! I'm **Sajid Javid**, a second-year **Ph.D. student** in the **Department of Computer Science and Engineering** at **IIIT Delhi**. I’m passionate about building intelligent system models that tackle real-world challenges using the power of machine learning and AI with a primary focus on wireless communications and networks. I am currently working as part of the ]**i-CPS (Intelligent Communication, Processing, and Sensing) Lab** under **Prof. Shamik Sarkar\[[link](https://ieeexplore.ieee.org/document/10867216)**, where we focus on developing algorithms and implementations for intelligent wireless communication and sensing systems.
 
 Throughout my education and research experiences, I have explored diverse areas within computer science, collaborating on projects that span artificial intelligence, computer vision, natural language processing, and wireless communication. These experiences have shaped my approach to problem-solving and fueled my passion for learning and experimentation.
 
@@ -56,3 +56,6 @@ This website serves as a glimpse into my professional world—a space to share m
 > *“Technology is best when it brings people together.” — Matt Mullenweg*
 
 Thanks for visiting my page! Feel free to explore, connect, and collaborate.
+
+
+
