@@ -1,11 +1,6 @@
 ---
 title: "Professional Experience"
-collection: portfolio
----
-
----
-title: "Professional Experience"
-collection: portfolio
+collection: experiences
 category: professional
 permalink: /professional-experience
 ---

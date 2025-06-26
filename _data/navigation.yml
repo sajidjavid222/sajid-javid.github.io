@@ -17,8 +17,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
   - title: "Professional Experience"
-    url: /portfolio/
+    url: _pages/experience.md
         
   # - title: "Blog Posts"
   #   url: /year-archive/
