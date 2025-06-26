@@ -1,7 +1,6 @@
 ---
 title: "Professional Experience"
 collection: portfolio
-category: professional
 permalink: /portfolio/
 ---
 
