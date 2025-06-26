@@ -6,7 +6,7 @@ title: "Professional Experience"
 title: "Professional Experience"
 collection: portfolio
 category: professional
-permalink: /professional-experience
+permalink: /portfolio/
 ---
 
 ## Internships
