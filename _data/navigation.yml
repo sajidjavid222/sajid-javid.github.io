@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
 
   - title: "Professional Experience"
-    url: "/_pages/portfolio.html"
+    url: "/portfolio.html"
         
   # - title: "Blog Posts"
   #   url: /year-archive/
