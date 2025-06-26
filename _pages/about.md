@@ -54,7 +54,7 @@ This website serves as a glimpse into my professional world—a space to share m
 
 > *“Technology is best when it brings people together.” — Matt Mullenweg*
 
-Thanks for visiting my page! Feel free to explore, connect, and collaborate.
+Thanks for visiting my page! Feel free to explore, connect, and collaborate. 🚀
 
 
 
