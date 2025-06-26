@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-6002-1204"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Sajid-Javid-2?ev=hdr_xprf"
   scopus           : # URL
 
@@ -53,14 +53,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/shah_sajid_naqshbandi/?igsh=YmphaHpnZmNqeTE1&utm_source=qr#"
+  instagram        : "https://www.instagram.com/shah_sajid_naqshbandi/"
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/sajid-javid-9a3722206/"
   mastodon         : # URL
