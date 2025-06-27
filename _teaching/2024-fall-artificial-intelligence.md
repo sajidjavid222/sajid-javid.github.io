@@ -8,7 +8,7 @@ date: 2024-08-01
 location: "Delhi, India"
 ---
 
-**Course:** CSE643 – AI Artificial Intelligence jj
+**Course:** CSE643 – AI Artificial Intelligence jjsdsdsd
 **Instructor:** Dr. Saket Anand  
 **Term:** Aug 2024 – Dec 2024  
 
