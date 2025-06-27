@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/
 ---
 
-# Positions of Responsibility
+
 
 ### Coordinator – AMURoboclub  
 **May 2023 — Present**  

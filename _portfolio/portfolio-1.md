@@ -3,7 +3,7 @@ title: "Internship Experience"
 collection: portfolio
 permalink: /portfolio/
 ---
-# Internships
+
 
 ### Google Research ExploreCSR Intern – IIT Roorkee  
 **Jan 2024 — Jun 2024**  
