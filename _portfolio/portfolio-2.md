@@ -1,53 +1,75 @@
 ---
-title: " Positions of Responsibility"
+
+title: "Professional Experience"
 collection: portfolio
 permalink: /portfolio/
+----------------------
+
+# 💼 Internship Experience
+
+### 🚦 Google Research ExploreCSR Intern – *IIT Roorkee*
+
+**Jan 2024 — Jun 2024**
+
+* Developed an end-to-end intelligent traffic management system using computer vision, machine learning, and optimization algorithms to enhance vehicular flow.
+* Built a real-time vehicle detection and counting module to differentiate cars, trucks, and motorcycles.
+* Designed a density-based adaptive traffic signal timing algorithm, significantly reducing congestion and delays.
+
+### 🚄 Intern Railway Scientist – *L2MRail (IISc Bangalore startup)*
+
+**Jul 2022 — Oct 2022**
+
+* Collaborated with RDSO and Indian Railways to develop the F-WILD system for detecting wheel-impact loads.
+* Applied YOLO-based object detection on real-time wheel signature data to identify anomalies.
+* Extracted train health metrics from platform-camera feeds and generated alerts for critical wheel damages.
+
+### 📊 Machine Learning & Data Science Intern – *Internship Studio*
+
+**Mar 2022 — Apr 2022**
+
+* Predicted YouTube ad view counts using regression and classification models.
+* Built and evaluated ML models such as linear regression, decision trees, and neural networks on real-world data.
+* Achieved robust predictive performance with insightful analysis.
+
 ---
 
-# Internship Experience 
+# 🧭 Positions of Responsibility
 
-### Google Research ExploreCSR Intern – IIT Roorkee  
-**Jan 2024 — Jun 2024**  
-– Developed an end-to-end intelligent traffic management system utilizing computer vision, machine learning, and optimization algorithms to enhance vehicular flow.  
-– Designed and built a robust vehicle detection and counting module capable of differentiating and tallying cars, trucks, and motorcycles in real-time video feeds.  
-– Leveraged detection data to devise an adaptive traffic signal timing algorithm using density-based optimizations, reducing junction delays and overall congestion.
+### 🤖 Coordinator – *AMURoboclub*
 
-### Intern Railway Scientist – L2MRail (IISc Bangalore startup)  
-**Jul 2022 — Oct 2022**  
-– Contributed to the development of the Wheel Impact Load Detector (F-WILD) system in collaboration with RDSO and Indian Railways, capturing and processing real-time train wheel signature data from instrumented track sections.  
-– Applied YOLO-based object detection to analyze and interpret wheel signatures for anomaly detection.  
-– Processed platform-camera imagery to extract critical train health metrics and reported urgent wheel-damage alerts to railway authorities.
+**May 2023 — May 2024**
 
-### Machine Learning & Data Science Intern – Internship Studio  
-**Mar 2022 — Apr 2022**  
-– Implemented a suite of regression and classification algorithms to predict YouTube ad view counts from platform metrics.  
-– Built and evaluated multiple ML models—including linear regression, decision trees, and an artificial neural network—achieving robust predictive performance on real‐world data.  
+* Led IIIT Delhi’s robotics club: organized workshops, mentored members, and hosted national events.
+* Headed VERCERA, a 5-day technical fest, managing logistics, sponsorships, and event schedules.
+* Conducted hands-on sessions and mentored 50+ students each semester.
 
+### 🤝 Joint Coordinator – *AMURoboclub*
 
- # Positions of Responsibility
+**Jun 2022 — May 2023**
 
-### Coordinator – AMURoboclub  
-**May 2023 — Present**  
-– Lead IIIT Delhi’s robotics club: organize technical workshops, supervise member projects, and head national‐level events.  
-– Managed VERCERA, the club’s flagship 5-day technical festival, coordinating logistics, sponsorship, and event scheduling.  
-– Conduct educational sessions and hands-on labs on robotics topics, mentoring 50+ members per semester.
+* Organized technical workshops and supervised project development.
+* Delivered an OpenCV-based Computer Vision workshop for 60+ participants.
+* Designed a 3D robotic arm for object sorting using color detection algorithms.
 
-### Joint Coordinator – AMURoboclub  
-**Jun 2022 — May 2023**  
-– Co-organized workshops and technical sessions; built and demonstrated robotics projects.  
-– Delivered a Computer Vision workshop attended by 60+ students, covering OpenCV fundamentals and object tracking.  
-– Designed and prototyped a 3D robotic arm that sorts colored objects using OpenCV color-detection algorithms.
+### 🙋 Volunteer – *AMURoboclub*
 
-### Volunteer – AMURoboclub  
-**Aug 2021 — Jun 2022**  
-– Assisted in club operations: developed leadership, communication, and content-writing skills.  
-– Supported project teams with troubleshooting and documentation.
+**Aug 2021 — Jun 2022**
 
-### Technical Team Member – IEEE Computer Society, ZHCET  
-**Aug 2021 — Jun 2022**  
-– IEEE Student Member ID: 98797221  
-– Conducted specialized workshops on Machine Learning, Computer Vision, and NLP for 40+ participants.
+* Assisted with club activities; developed communication and leadership skills.
+* Supported project development teams with troubleshooting and documentation.
 
-### CS Team Volunteer – MTS-AUV Club, ZHCET  
-**May 2022 — Jul 2022**  
-– Contributed to planning and execution of technical events and hands-on workshops in autonomous underwater vehicle (AUV) technologies.  
+### 💻 Technical Team Member – *IEEE Computer Society, ZHCET*
+
+**Aug 2021 — Jun 2022**
+
+* IEEE Student Member ID: 98797221
+* Organized hands-on sessions on ML, Computer Vision, and NLP for 40+ students.
+
+### 🌊 CS Team Volunteer – *MTS-AUV Club, ZHCET*
+
+**May 2022 — Jul 2022**
+
+* Planned and conducted events focused on autonomous underwater vehicle technologies.
+* Delivered hands-on sessions and promoted student engagement in robotics.
+
+---
