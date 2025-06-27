@@ -1,7 +1,7 @@
 ---
 title: " Positions of Responsibility"
 collection: portfolio
-# permalink: /portfolio/
+permalink: /portfolio/
 ---
 
 # Positions of Responsibility
