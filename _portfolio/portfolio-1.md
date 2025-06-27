@@ -1,7 +1,7 @@
 ---
 title: "Professional Experience"
 collection: portfolio
-permalink: /portfolio/
+# permalink: /portfolio/
 ---
 
 ## Internships
