@@ -31,7 +31,6 @@ permalink: /portfolio/
 * Built and evaluated ML models such as linear regression, decision trees, and neural networks on real-world data.
 * Achieved robust predictive performance with insightful analysis.
 
----
 
 # 🧭 Positions of Responsibility
 
