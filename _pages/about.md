@@ -1,13 +1,18 @@
 ---
+
 permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author\_profile: true
+redirect\_from:
+
+- /about/
+- /about.html
+
 ---
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; min-width: 300px; max-width: 55%; padding-right: 20px;">
 
-👋 Welcome to My Portfolio!
+### 👋 Welcome to My Portfolio!
 
 I'm **Sajid Javid**, a second-year **Ph.D. student** in the **Department of Computer Science and Engineering** at **IIIT Delhi**. I’m passionate about building intelligent system models that tackle real-world challenges using the power of machine learning and AI with a primary focus on wireless communications and networks. I am currently working as part of the **i-CPS (Intelligent Communication, Processing, and Sensing) Lab** under <a href="https://shamikdesarkar.wixsite.com/shamiksworks/research" style="color:blue;">Dr. Shamik Sarkar</a>, where we focus on developing algorithms and implementations for intelligent wireless communication and sensing systems.
 
@@ -17,9 +22,15 @@ My background also includes hands-on involvement in teaching, leadership roles i
 
 This website serves as a glimpse into my professional world—a space to share my research interests, academic progress, and selected projects.
 
----
+> *“Technology is best when it brings people together.” — Matt Mullenweg*
 
-## 🌟 Research Interests
+Thanks for visiting my page! Feel free to explore, connect, and collaborate. 🚀
+
+  </div>
+
+  <div style="flex: 1; min-width: 250px; max-width: 40%; padding-left: 20px; border-left: 1px solid #ccc;">
+
+### 🌟 Research Interests
 
 > *Exploring technology to solve tomorrow’s problems today.*
 
@@ -33,7 +44,7 @@ This website serves as a glimpse into my professional world—a space to share m
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 📚 **Academic Milestones**:
 
@@ -49,8 +60,6 @@ This website serves as a glimpse into my professional world—a space to share m
 * 🏫 **10th Standard**, Islamic Educational Institute, Soibugh Budgam *(2017)*
   **Score: 92.2%**
 
----
+  </div>
 
-> *“Technology is best when it brings people together.” — Matt Mullenweg*
-
-Thanks for visiting my page! Feel free to explore, connect, and collaborate. 🚀
+</div>
