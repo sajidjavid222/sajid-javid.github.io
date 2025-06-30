@@ -31,7 +31,7 @@ permalink: /portfolio/
 * Achieved robust predictive performance with insightful analysis.
 
 
-# 🧭 <a href="https://drive.google.com/file/d/1izivNTRTAXRK0rEf536x-HK1K3k7uRZU/view?usp=drive_link" style="color:blue;">Positions of Responsibility</a>  
+# 🧭 <a href="https://drive.google.com/file/d/1izivNTRTAXRK0rEf536x-HK1K3k7uRZU/view?usp=drive_link" style="color:#52ADC8;">Positions of Responsibility</a>  
 
 
 ### 🤖 Coordinator – *AMURoboclub*
