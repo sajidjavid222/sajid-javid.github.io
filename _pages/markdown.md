@@ -27,7 +27,7 @@ redirect_from:
 
 ## 2. 🛍️ Enhancing Product Categorization with Transformer-Based Attribute Prediction
 
-*Part of IndoML 2024 @ BITS Pilani Goa Campus – Ranked 9th out of 400+ teams* [(link)](#)
+*Part of IndoML 2024 @ BITS Pilani Goa Campus – Ranked 9th out of 400+ teams* <a href="https://drive.google.com/drive/folders/1McRcHH8zI2dl_ES_KcTbbLV7W4m_hj10" style="color:#52ADC8;">[link]</a>(#)
 
 * Utilized transformer models (BERT, LLaMa-2-7B, GPT-J) for multi-task classification and generative tasks.
 * Integrated FAISS-based data augmentation; best performance with GPT-J (6B parameters).
