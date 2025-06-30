@@ -4,8 +4,8 @@ title: "Projects"
 permalink: /projects/
 layout: archive
 ---------------
-
-# 🚀 Projects
+<!-- 
+# 🚀 Projects -->
 
 ---
 
