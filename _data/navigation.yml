@@ -23,8 +23,8 @@ main:
   # - title: "Professional Experience"
   #   url: "/portfolio/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
     
   - title: "CV"
