@@ -5,7 +5,7 @@ permalink: /projects/
 layout: archive
 ---------------
 
-# 🚀 Projects
+<!-- # 🚀 Projects -->
 
 ---
 
