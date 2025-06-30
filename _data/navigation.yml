@@ -20,6 +20,10 @@ main:
   - title: "Professional Experience"
     url: /portfolio/
 
+  - title: "Projects"
+    url: /markdown/
+
+
   # - title: "Professional Experience"
   #   url: "/portfolio/
 
@@ -33,5 +37,3 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Projects"
-    url: /markdown/
