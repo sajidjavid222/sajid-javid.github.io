@@ -39,7 +39,7 @@ permalink: /portfolio/
 
 **May 2023 — May 2024**
 
-* Led IIIT Delhi’s robotics club: organized workshops, mentored members, and hosted national events.
+* Led AMU’s robotics club: organized workshops, mentored members, and hosted national events.
 * Headed VERCERA, a 5-day technical fest, managing logistics, sponsorships, and event schedules.
 * Conducted hands-on sessions and mentored 50+ students each semester.
 
