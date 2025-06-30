@@ -5,7 +5,8 @@ collection: portfolio
 permalink: /portfolio/
 ---
 
-# 💼 <a href="https://drive.google.com/file/d/1m2Qzjm_5uPeAJstj1_7WSm_nwoQr7ZyM/view?usp=sharing" style="color:#52ADC8;">Internship Experience</a>
+## 💼 <a href="https://drive.google.com/file/d/1m2Qzjm_5uPeAJstj1_7WSm_nwoQr7ZyM/view?usp=sharing" style="color:#52ADC8;">Internship Experience</a>
+
 ### 🚦 Google Research ExploreCSR Intern – *IIT Roorkee*
 
 **Jan 2024 — Jun 2024**
@@ -31,7 +32,7 @@ permalink: /portfolio/
 * Achieved robust predictive performance with insightful analysis.
 
 
-# 🧭 <a href="https://drive.google.com/file/d/1izivNTRTAXRK0rEf536x-HK1K3k7uRZU/view?usp=drive_link" style="color:#52ADC8;">Positions of Responsibility</a>  
+## 🧭 <a href="https://drive.google.com/file/d/1izivNTRTAXRK0rEf536x-HK1K3k7uRZU/view?usp=drive_link" style="color:#52ADC8;">Positions of Responsibility</a>  
 
 
 ### 🤖 Coordinator – *AMURoboclub*
