@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /portfolio/
 ---
 
-# 💼 <a href="https://drive.google.com/file/d/1m2Qzjm_5uPeAJstj1_7WSm_nwoQr7ZyM/view?usp=sharing" style="color:blue;">Internship Experience</a>
+# 💼 <a href="https://drive.google.com/file/d/1m2Qzjm_5uPeAJstj1_7WSm_nwoQr7ZyM/view?usp=sharing" style="color:#52ADC8;">Internship Experience</a>
 ### 🚦 Google Research ExploreCSR Intern – *IIT Roorkee*
 
 **Jan 2024 — Jun 2024**
