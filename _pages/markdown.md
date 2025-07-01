@@ -60,9 +60,4 @@ redirect_from:
 
 ---
 
-## 6. 🍱 FoodVision: A Deep Learning Food Classification System
 
-* Built a deep learning model with transfer learning for food image classification.
-* Enabled accurate recognition of diverse foods for use in diet tracking, nutrition analysis, etc.
-
----
